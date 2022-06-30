@@ -1,6 +1,3 @@
----
-sidebar_position: 1
----
 
 # Introduction
 Ransomware is chalked up to be a complex threat to modern enterprises. Attackers infiltrate and cripple computer networks across the spectrum indiscriminately; hospitals, schools, factories, councils, utilities and of course government to name just a few.   
